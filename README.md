@@ -1,70 +1,124 @@
 # Hi there, I'm Yassine! 👋
 
-I'm passionate about Artificial Intelligence and Data Science, leveraging them to tackle real-world challenges. With a drive to excel in these transformative fields, I am continually expanding my knowledge and exploring innovative approaches in AI, Machine Learning, Computer Vision, and data-driven solutions.
+🚀 AI Engineer & Data Engineer | Building production-ready AI systems  
+📍 Paris, France | Available for full-time opportunities (Oct 2026)
 
-## 🚀 About Me
-- 🌟 I'm currently a Master's degree student in Data Science and Artificial Intelligence at Datascience Tech Institute.
-- 🏭 My industrial background equips me with a unique perspective, enabling me to understand real-world applications better and improve innovative ideas with practical insights.
-- 📚 I'm actively learning and researching in areas such as Data Science, Machine Learning, Deep Learning and Computer Vision.
-- 🤝 I'm open to collaborations on AI-related projects and eager to connect with like-minded enthusiasts.
-- 💡 Feel free to ask me anything about AI enjoy engaging in meaningful discussions.
-- 📫 How to reach me: yassine.fendi@edu.dsti.institute | [LinkedIn](https://www.linkedin.com/in/yassine-fendi-25141a241/)
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Backend Services
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MONAI](https://img.shields.io/badge/-MONAI-E94E77?style=flat-square&logoColor=white)
-![Image Processing](https://img.shields.io/badge/-Image%20Processing-blue?style=flat-square)
-
-### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+I specialize in designing and deploying **end-to-end AI & data solutions**, from data pipelines to production-grade intelligent systems. With hands-on experience in real-world environments (Groupama), I focus on delivering **scalable, reliable, and business-driven AI applications**.
 
 ---
 
-### IDEs/Editors
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+## 🧠 About Me
 
-### Data Science
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=flat-square)
+- 🎓 MSc in Data Science & Artificial Intelligence @ DSTI (Paris)
+- 🏭 Engineering background in Industrial Computing & Automation (INSAT)
+- 💼 1.5+ years of experience in **AI/Data Engineering in production (Groupama)**
+- ⚙️ Strong expertise in **Python, Data Pipelines, APIs, and AI systems deployment**
+- 🤖 Passionate about **LLMs, RAG systems, Data Engineering & MLOps**
+- 🤝 Open to collaborations and AI-driven projects
 
-### Softwares
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
+## 🚀 Professional Experience
 
+### 🧩 AI / Data Engineer (Apprenticeship) — Groupama (GGVIE)
+**Paris, France | 2025 – Present**
+
+- 🔍 Built a **production-grade RAG system** (React + Django + Qdrant)  
+  → Document ingestion, vector indexing, conversational agent with session tracking  
+  → 100+ security policy documents processed  
+
+- 📊 Developed **automated data extraction pipelines** (PDF/Docx → structured insights)  
+  → Leveraging Azure OpenAI for business intelligence  
+
+- 🤖 Designed **AI conversational agent (MCP)** integrating REST & SOAP APIs  
+  → Used by business teams (contracts management use-case)  
+
+- ⚙️ Full-stack + MLOps stack:  
+  `Django · Celery · Redis · Docker · GitLab CI/CD · Grafana · Azure`
+
+---
+
+### ⚡ Data Engineer Intern — Groupama
+**2025**
+
+- 🏗️ Built **ETL pipelines (Medallion Architecture: Bronze/Silver/Gold)**  
+  → Automated with Apache Airflow  
+
+- 📍 Developed a **data-driven prospecting application**  
+  → 35,000+ French municipalities processed  
+
+- 🧪 Deployed a **DataLab environment** for team collaboration  
+  → MinIO, PostgreSQL, Qdrant, JupyterHub  
+
+---
+
+### 🚗 Data Science Intern — Predictive Maintenance
+- Developed **ML models (XGBoost, LSTM)** for vehicle failure prediction  
+- Integrated real-time data (OBD2/GPS) into a web platform  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+Python (Advanced) · SQL · JavaScript · R · Java  
+
+### 🧠 AI / Machine Learning
+PyTorch · TensorFlow · Scikit-learn · NLP · LLMs · RAG · Computer Vision  
+
+### ⚙️ Data Engineering
+Apache Airflow · Spark · PostgreSQL · MongoDB · Qdrant · Neo4j · MinIO  
+
+### 🌐 Backend & APIs
+Django · FastAPI · Flask · REST · SOAP  
+
+### 🎨 Frontend
+React · Streamlit  
+
+### ☁️ Cloud & DevOps
+Docker · Kubernetes · GitLab CI/CD · Azure · AWS · Linux  
+
+### 📊 Monitoring & Visualization
+Grafana · SAS · Altair  
+
+---
+
+## 📌 Key Projects (Coming Soon / Featured)
+
+- 🔎 **RAG Enterprise Assistant** – Secure document search & conversational AI  
+- 📊 **ETL Data Platform** – Automated pipelines with Airflow  
+- 🤖 **AI Agents with API Integration** – Business workflow automation  
 
 ---
 
 ## 🎓 Education
-- Applied MSc in Data Science & Artificial Intelligence degree from DSTI - Datascience Tech Institute (Novomber 2026) 
-- Engineering Degree in Industrial Computing and Automation from INSAT - National Institute of Applied Science and Technology (July 2024)
-- Relevant coursework: Data Science, Machine Learning, Deep Learning, Big Data, IT project management , Python , C++ , R , Amazon AWS , MLOPS, SAS , Neo4j .
+
+- 🎓 MSc Data Science & Artificial Intelligence — DSTI (2024–2026)
+- 🎓 Engineering Degree — INSAT (2019–2024)
 
 ---
 
-## 🤝 Connect with Me
-I'm always excited to connect with fellow AI enthusiasts, researchers, and professionals. Feel free to reach out through email or connect with me on [LinkedIn](#). Let's collaborate, share ideas, and push the boundaries of AI together! 🤖
+## 📜 Certifications
 
+- 🧠 Deep Learning Specialization — DeepLearning.AI  
+- 🤖 Machine Learning Specialization — DeepLearning.AI  
+- 🟢 Neo4j Professional Certification  
 
+---
 
+## 🌍 Languages
+
+- 🇫🇷 French — C1  
+- 🇬🇧 English — C1  
+
+---
+
+## 📫 Contact
+
+- 📧 yassine.fendi@edu.dsti.institute  
+- 💼 LinkedIn: https://www.linkedin.com/in/yassine-fendi-25141a241/  
+- 💻 GitHub: https://github.com/FendiYassine  
+
+---
+
+⭐️ *Always open to exciting AI challenges, collaborations, and impactful projects!*
